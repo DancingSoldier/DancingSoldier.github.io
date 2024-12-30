@@ -1,7 +1,7 @@
 
 <body>
 
-<h1>Hello, I'm Joonatan! I'm: <br/><a href="https://github.com/DancingSoldier">a programmer</a>, <a href="https://www.artstation.com/dancingsoldier">a Visual Artist</a> and <a href="https://dancingsoldier.itch.io/">an Indie Game Developer</a></h1>
+<h1>Hello, I'm Joonatan! I'm: <br/><a href="https://github.com/DancingSoldier">a Programmer</a>, <a href="https://www.artstation.com/dancingsoldier">a Visual Artist</a> and <a href="https://dancingsoldier.itch.io/">an Indie Game Developer</a></h1>
 
 
 
